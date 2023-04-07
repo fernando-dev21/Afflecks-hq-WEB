@@ -1,12 +1,51 @@
 import React from 'react'
+import './Home.css'
+import logo from '../assets/image/hq.png'
 
 const Home = () => {
-  return (
-    <main>
-      <section>
-        <h2>Primeira página criada com React</h2>
-        <p>Esta é a primeira página criada na aula de Laboratório de Desenvolvimento Web, 4º semestre de DSM - Manhã</p>
-      </section>
+  return (    
+    <main>      
+      <div class="main">
+            <div class="produto">
+            <img src={logo} className="logo" alt="IMAGEM" />
+                <h3>Produto 1</h3>
+                <p>R$ 19,99</p>
+                <button>Adicionar ao carrinho</button>
+                
+              </div>
+                
+            </div>
+            <div class="produto">
+            <img src={logo} className="logo" alt="IMAGEM" />
+              <h3>Produto 2</h3>
+              <p>R$ 29,99</p>
+              <button>Adicionar ao carrinho</button>
+            </div>        
+            
+            <div class="produto">
+            <img src={logo} className="logo" alt="IMAGEM" />
+              <h3>Produto 3</h3>
+              <p>R$ 39,99</p>
+              <button>Adicionar ao carrinho</button>
+            </div>
+            <div class="produto">
+            <img src={logo} className="logo" alt="IMAGEM" />
+              <h3>Produto 4</h3>
+              <p>R$ 49,99</p>
+              <button>Adicionar ao carrinho</button>
+            </div>
+            <div class="produto">
+            <img src={logo} className="logo" alt="IMAGEM" />
+              <h3>Produto 5</h3>
+              <p>R$ 59,99</p>
+              <button>Adicionar ao carrinho</button>
+            </div>
+            <div class="produto">
+              <img src={logo} className="logo" alt="IMAGEM" />  
+              <h3>Produto 6</h3>
+              <p>R$ 29,99</p>
+              <button>Adicionar ao carrinho</button>                     
+      </div>            
     </main>
   )
 }
