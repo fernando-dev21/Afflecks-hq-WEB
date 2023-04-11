@@ -9,16 +9,12 @@ footer {
     color: white;
     /*background-color: darkblue;*/
 
-
-
     width: 100%;
     height: auto;
     background-color: #38B6FF; 
     justify-content: space-between;
     align-items: center;
 
-
-    
 
 
 }
@@ -30,5 +26,10 @@ footer .footer-description a {
      
     justify-content: space-between;
     align-items: center;
-    color: red;
+    color: #000;
+}
+
+footer a:hover{
+    transition: 0.3s;
+    color: yellow;
 }

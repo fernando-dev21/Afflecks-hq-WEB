@@ -4,13 +4,12 @@ import logo from '../assets/image/logo.png'
 const Footer = () => {
   return (
    <footer>  
-        <p>Todos os direitos reservados &copy; 2023</p>          
+        <p>Criado por Fernando José. Todos os direitos reservados &copy; 2023</p>          
                                              
-    <div class="footer-description">
-                          
+    <div class="footer-description">                          
       <a href="#">Quem somos</a>
       <a href="#">Endereço</a>
-      <a href="#">(99)99999-9999</a>                    
+      <a href="#">Contato (99)99999-9999</a>                    
     </div>       
    </footer>
   )
