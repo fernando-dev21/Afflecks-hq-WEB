@@ -7,8 +7,7 @@ import Pagina2 from './pages/Pagina2';
 import Pagina3 from './pages/Pagina3';
 import NavBar from './components/NavBar';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Slider from './slider';
-
+import Slider from './slider'
 
 function App() {
   return (
