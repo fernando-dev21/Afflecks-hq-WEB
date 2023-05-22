@@ -1,0 +1,15 @@
+main {
+    width: 100%;
+}
+
+section {
+    width: 100%;
+    background-color: red;
+
+}
+
+
+.section_1 img {
+    width: 50%;	
+	
+}

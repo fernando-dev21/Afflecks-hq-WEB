@@ -17,7 +17,7 @@ const NavBar = () => {
     <nav>
         <Link to="/" style={{ fontSize: `${fontSize}px` }}>Home</Link>
         <Link to="/pagina2" style={{ fontSize: `${fontSize}px` }}>Página 2</Link>
-        <Link to="/pagina3" style={{ fontSize: `${fontSize}px` }}>Página 3</Link>
+        <Link to="/pagina3" style={{ fontSize: `${fontSize}px` }}>Contato</Link>
         <div>
           <button onClick={increaseFontSize}>Aumentar fonte</button>
           <button onClick={decreaseFontSize}>Diminuir fonte</button>

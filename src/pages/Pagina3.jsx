@@ -1,12 +1,14 @@
-import React from 'react'
+import React, { useState } from 'react';
+
+
+
 
 const Pagina3 = () => {
   return (
+    
+
     <main>
-      <section>
-        <h2>Terceira página</h2>
-        <p>Fiquei com preguiça, mas essa é a terceira página.</p>
-      </section> 
+      <p>TESTE</p>
     </main>
   )
 }

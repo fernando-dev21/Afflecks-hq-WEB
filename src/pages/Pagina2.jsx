@@ -1,12 +1,22 @@
 import React from 'react'
+import './Pagina2.css';
+import flash from '../assets/image/flash.webp';
 
 const Pagina2 = () => {
   return (
     <main>
+      
       <section>
-        <h2>Segunda página criada com React</h2>
-        <p>Esta é a segunda página criada na aula de Laboratório de Desenvolvimento Web, 4º semestre de DSM - Manhã</p>
-      </section>
+        <div className='section_1'>
+          <div className='img'>
+            <img src={flash} className="logo" alt="IMAGEM DA FLASH" />
+            
+          </div>
+
+        </div>
+        
+      </section> 
+      
     </main>
   )
 }

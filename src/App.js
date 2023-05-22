@@ -20,7 +20,8 @@ function App() {
           <Route path='/' element={<Home />} />
           <Route path='/pagina2' element={<Pagina2 />} />
           <Route path='/pagina3' element={<Pagina3 />} />
-        </Routes>
+          
+        </Routes>       
         <Footer />
       </BrowserRouter>
     
