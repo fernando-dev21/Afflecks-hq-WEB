@@ -1,15 +1,41 @@
 main {
     width: 100%;
+    
 }
 
 section {
     width: 100%;
     background-color: red;
+    
 
+}
+
+section .section_1 {
+    background-color: blanchedalmond;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+ section .section_1 .description {
+    width: 50%;
+
+    
+    
+    background-color: white;
+    
+    
 }
 
 
 .section_1 img {
-    width: 50%;	
+    width: 100%;	
 	
+}
+
+.description {
+    color: black;
 }

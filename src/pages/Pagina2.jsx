@@ -10,7 +10,13 @@ const Pagina2 = () => {
         <div className='section_1'>
           <div className='img'>
             <img src={flash} className="logo" alt="IMAGEM DA FLASH" />
-            
+          </div>
+
+          <div className='description'>
+            <p>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</p>
+            <p>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</p>
+            <p>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</p>
+            <p>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</p>
           </div>
 
         </div>
