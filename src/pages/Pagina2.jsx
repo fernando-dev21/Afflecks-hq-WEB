@@ -23,7 +23,7 @@ const Pagina2 = () => {
 
   return (
     <div>
-     <div>
+      <div>
         <button onClick={increaseFontSize}><strong>Aumentar fonte</strong></button>
         <button onClick={decreaseFontSize}><strong>Diminuir fonte </strong></button>        
       </div>
