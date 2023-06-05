@@ -7,9 +7,15 @@ header {
   }
   
   .logo {
-    width: 150px;
+    width: 200px;
     height: auto;
     margin-right: 10px;
+  }
+
+  .logo2 {
+    width: 350px;
+    height: 150px;
+    margin-left: 10px;
   }
   
   h1 {

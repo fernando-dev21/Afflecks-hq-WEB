@@ -38,6 +38,7 @@ footer .footer-description a {
 footer a:hover{
     transition: 0.3s;
     color: yellow;
+    text-decoration: underline;
 }
 
 
