@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import './Pagina2.css';
-import flash from '../assets/image/flash.webp';
-import bane from '../assets/image/bane.jpg';
-import camiseta from '../assets/image/camiseta.webp';
-import movie from '../assets/image/movie.jpg';
-import game_1 from '../assets/image/game.webp';
-import game_2 from '../assets/image/game_2.jpg';
-import evento from '../assets/image/evento.webp';
+import flash from '../../assets/image/flash.webp';
+import bane from '../../assets/image/bane.jpg';
+import camiseta from '../../assets/image/camiseta.webp';
+import movie from '../../assets/image/movie.jpg';
+import game_1 from '../../assets/image/game.webp';
+import game_2 from '../../assets/image/game_2.jpg';
+import evento from '../../assets/image/evento.webp';
 
 
 
